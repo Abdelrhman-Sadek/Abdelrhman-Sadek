@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadek678912345&label=Profile%20views&color=0e75b6&style=flat" alt="sadek678912345" /> </p>
 
-- 💬 Ask me about **python, SQL, tableau**
 
 - 📫 How to reach me **abdelrhmansadek11@gamil.com**
 
