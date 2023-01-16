@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Sadek</h1>
 <h3 align="center">A passionate about AI & Data Analysis</h3>
-
+<img align="right" alt="Coding" width="400" src=https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611c94312bb50262c7d3b6412f234b7e91aa3a5d51c&rid=giphy.gif&ct=g
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadek678912345&label=Profile%20views&color=0e75b6&style=flat" alt="sadek678912345" /> </p>
 
 
