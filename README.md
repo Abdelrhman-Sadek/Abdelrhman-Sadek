@@ -11,6 +11,7 @@
 
 
 - 📫 How to reach me
+</br>
 [![Mail Badge](https://img.shields.io/badge/-ayushksingh7-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdelrhmansadek11@gamil.com)
 
 
