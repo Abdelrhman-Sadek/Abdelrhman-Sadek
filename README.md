@@ -5,14 +5,14 @@
 <h3 align="center">A passionate about AI & Data Fields</h3>
 <img align="right" alt="Coding" width="400" src=https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611c94312bb50262c7d3b6412f234b7e91aa3a5d51c&rid=giphy.gif&ct=g
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadek678912345&label=Profile%20views&color=0e75b6&style=flat" alt="sadek678912345" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadek678912345&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman-Sadek" /> </p>
 
 
 - 📫 How to reach me **abdelrhmansadek11@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahmansadek9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahmansadek9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahmansadek9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
