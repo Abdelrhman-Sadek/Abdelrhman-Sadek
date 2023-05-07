@@ -1,6 +1,28 @@
 ![MasterHead](https://www.phen-ai.com/U2fh8eCs/wp-content/uploads/2019/10/1_37ABKi4XeHkEWHxlF3LIog-1.gif)
 <h1 align="center">Hi,I'm Abdelrahman Sadek 
 <span class="wave">👋</span> </h1>
+.wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
+
 <h3 align="center">A passionate about AI & Data Fields</h3>
 <img align="right" alt="Coding" width="400" src=https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611c94312bb50262c7d3b6412f234b7e91aa3a5d51c&rid=giphy.gif&ct=g
 <br/>
