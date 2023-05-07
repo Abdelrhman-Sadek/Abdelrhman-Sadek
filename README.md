@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![Linkedin Badge](https://img.shields.io/badge/-Sadek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansadek9/)
 
 </p>
 
