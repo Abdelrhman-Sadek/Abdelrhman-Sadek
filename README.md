@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahmansadek9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sadek" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-basel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-ayman-464b271a2/)](https://www.linkedin.com/in/basel-ayman-464b271a2/)
 <img src= [![Mail Badge](https://img.shields.io/badge/-Abdelrhman -c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdelrhmansadek11@gamil.com) >
 </p>
 
