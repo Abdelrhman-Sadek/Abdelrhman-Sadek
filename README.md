@@ -14,8 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-basel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/basel-ayman-464b271a2/)](https://www.linkedin.com/in/basel-ayman-464b271a2/)
-<img src= [![Mail Badge](https://img.shields.io/badge/-Abdelrhman -c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdelrhmansadek11@gamil.com) >
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
