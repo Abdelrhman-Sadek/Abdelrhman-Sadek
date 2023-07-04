@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Abdelrhman-Sadek">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi+I'am+Abdelrhman+Sadek;A+passionate+about+AI+and+Data+Fields alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi+I'am+Abdelrhman+Sadek+%7C;A+passionate+about+AI+%7C+Data+Fields" alt="Typing SVG" />
 <img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
 </a>
 
