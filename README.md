@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
 </a>
 
-
-<img align="right" alt="Coding" width="400" src=https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611c94312bb50262c7d3b6412f234b7e91aa3a5d51c&rid=giphy.gif&ct=g
+<br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelrhman-Sadek&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman-Sadek" /> </p>
 
