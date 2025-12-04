@@ -12,7 +12,9 @@
 
 <a href="https://github.com/Abdelrhman-Sadek">
  
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=150&multiline=true&width=500&height=80&lines=Hi+I'am+Abdelrhman+Sadek+%7C;A+passionate+about+%7C+Data+Analysis +Fields;" alt="Typing SVG" />
+<div align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DGeorgia%26size%3D20%26duration%3D2500%26pause%3D150%26multiline%3Dtrue%26width%3D500%26height%3D80%26lines%3DHi%2BI%27m%2BAbdelrhman%2BSadek%3BPassionate%2Babout%2BData%2BAnalysis" alt="Typing SVG" />
+</div>
 
 <img align="center" src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
 
