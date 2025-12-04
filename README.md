@@ -67,10 +67,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
+<div style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,fastapi,py,docker,cpp,flask,grafana,mysql,opencv,postman,prometheus,pytorch,py,selenium,sklearn,tensorflow," />
+    <img src="https://skillicons.dev/icons?i=git,scikitlearn,docker,python,prometheus,grafana,selenium,jenkins,flask,fastapi,sqlite,postgresql,postman,mysql,mongodb,anaconda,opencv" />
   </a>
+</div>
+
     
 </p>
 </p>
