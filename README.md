@@ -10,24 +10,23 @@
 
 
 
-<a href="https://github.com/Abdelrhman-Sadek">
-
-
-
-
-<img align="center" src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
-
-</a>
-<br/>
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DGeorgia%26size%3D20%26duration%3D2500%26pause%3D150%26multiline%3Dtrue%26width%3D500%26height%3D80%26lines%3DHi%2BI%27m%2BAbdelrhman%2BSadek%3BPassionate%2Babout%2BData%2BAnalysis" alt="Typing SVG" />
+<a href="https://github.com/Abdelrhman-Sadek">
+<img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40" alt="Hi"/>
+</a>
+
+
+
+
+
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Georgia%26size=20%26duration=2500%26pause=150%26multiline=true%26width=500%26height=80%26lines=Hi+I'm+Abdelrhman+Sadek;Passionate+about+Data+Analysis" alt="Typing SVG" />
+
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Abdelrhman-Sadek&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman-Sadek" />
 </div>
-
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrhman-Sadek&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman-Sadek" /> </p>
-
-
 
 
 
