@@ -11,7 +11,8 @@
 
 
 <a href="https://github.com/Abdelrhman-Sadek">
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=150&multiline=true&width=500&height=80&lines=Hi+I'am+Abdelrhman+Sadek+%7C;A+passionate+about+%7C+Data+Analysis +Fields;" alt="Typing SVG" />
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2500&pause=150&multiline=true&width=500&height=80&lines=Hi+I'am+Abdelrhman+Sadek+%7C;A+passionate+about+%7C+Data+Analysis +Fields;" alt="Typing SVG" />
 
 <img align="center" src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
 
