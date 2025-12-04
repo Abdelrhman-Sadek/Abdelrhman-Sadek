@@ -15,8 +15,9 @@
 </a>
 
 <img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40" alt="Hi"/>
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://readme-typing-svg.demolab.com?font=Georgia%26size=20%26duration=2500%26pause=150%26multiline=true%26width=500%26height=80%26lines=Hi+I'm+Abdelrhman+Sadek;Passionate+about+Data+Analysis" alt="Typing SVG" 
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+thier+I'm+Abdelrahman+Integration+and+Data+Passionate" alt="Typing SVG" /></a>
 
 
 
