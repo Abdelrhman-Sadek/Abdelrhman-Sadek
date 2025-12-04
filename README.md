@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/Abdelrhman-Sadek">
- 
+
 <div align="center">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DGeorgia%26size%3D20%26duration%3D2500%26pause%3D150%26multiline%3Dtrue%26width%3D500%26height%3D80%26lines%3DHi%2BI%27m%2BAbdelrhman%2BSadek%3BPassionate%2Babout%2BData%2BAnalysis" alt="Typing SVG" />
 </div>
