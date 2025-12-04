@@ -17,9 +17,7 @@
 <img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40" alt="Hi"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&repeat=false&width=435&lines=Hi%2C+I'm+Abdelrahman+Mahmoud;A+Data+and+Integration+passionate+" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&width=435&lines=Hi%2C+I'm+Abdelrahman+Mahmoud;A+Data+and+Integration+passionate+" alt="Typing SVG" /></a>
 
 
 
