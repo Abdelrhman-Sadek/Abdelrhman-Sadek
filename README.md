@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47vja7suvrrbsenxzhzgk7rqw6ghw57jy6km5h0esw&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> 
-    
+<img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47vja7suvrrbsenxzhzgk7rqw6ghw57jy6km5h0esw&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> 
+    
+
+
+
 
 
 
@@ -8,9 +11,14 @@
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DGeorgia%26size%3D20%26duration%3D2500%26pause%3D150%26multiline%3Dtrue%26width%3D500%26height%3D80%26lines%3DHi%2BI%27m%2BAbdelrhman%2BSadek%2B%257C%3BA%2Bpassionate%2Babout%2B%257C%2BData%2BAnalysis%2BFields;" alt="Typing SVG" />
 <img align="center" src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40"/>
 </a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdelrhman-Sadek&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman-Sadek" /> </p>
+
 <h3 align="center">Connect with me:
+
 </h3>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -69,6 +77,9 @@
 <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/>
 </a>
 </p>
+
+
+
 
 
 
