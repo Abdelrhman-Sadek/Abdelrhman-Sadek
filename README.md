@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47vja7suvrrbsenxzhzgk7rqw6ghw57jy6km5h0esw&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> 
+<img src="https://camo.githubusercontent.com/45cf351a062527338554d9e86dcf2143bc74de3d3691f042a14edb33f5caeeb9/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313637393435373332313431352f65343034633532322d386336632d343239612d623232362d6638633938623963333934382e676966"/> 
 
     
 
@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/KaylaKremer/KaylaKremer/master/images/hi.gif" width="40" height="40" alt="Hi"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&width=435&lines=Hi%2C+I'm+Abdelrahman+Mahmoud;A+Data+and+Integration+passionate+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&width=435&lines=Hi%2C+I'm+Abdelrahman+Mahmoud;A+Devops+and+Integration+passionate+" alt="Typing SVG" /></a>
 
 
 
