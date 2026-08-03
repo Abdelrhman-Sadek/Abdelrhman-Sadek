@@ -36,7 +36,7 @@
 
   
 
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=bounce&link=abdelrhmansadek11%40gmail.com)](abdelrhmansadek11@gmail.com) [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=bounce&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdelrahmansadek9)](https://www.linkedin.com/in/abdelrahmansadek9)
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=bounce&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DCllgCHrfTDsVwwdnPqmhBmQbTxQrsMQpcbVZRDSTJTTjpCfHNkKzhmjTBBWkFTPZmjjxFZbZPDV)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrfTDsVwwdnPqmhBmQbTxQrsMQpcbVZRDSTJTTjpCfHNkKzhmjTBBWkFTPZmjjxFZbZPDV) [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=bounce&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdelrahmansadek9)](https://www.linkedin.com/in/abdelrahmansadek9)
 </h3>
 
 
@@ -68,11 +68,8 @@
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
-   <img src="https://www.readmecodegen.com/api/social-icon?name=argo&size=64&animation=tada" alt="argo" /> <img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=64&animation=tada" alt="terraform" /> <img src="https://www.readmecodegen.com/api/social-icon?name=helm&size=64&animation=tada" alt="helm" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kong&size=64&animation=tada" alt="kong" /> <img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=64&animation=tada" alt="googlecloud" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=64&animation=tada" alt="kubernetes" /> <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=64&animation=tada" alt="docker" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=64&animation=tada" alt="jenkins" /> <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=tada" alt="postgresql" /> <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=64&animation=tada" alt="fastapi" />
+   <img src="https://www.readmecodegen.com/api/social-icon?name=argo&size=64&animation=tada" alt="argo" /> <img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=64&animation=tada" alt="terraform" /> <img src="https://www.readmecodegen.com/api/social-icon?name=helm&size=64&animation=tada" alt="helm" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kong&size=64&animation=tada" alt="kong" /> <img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=64&animation=tada" alt="googlecloud" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=64&animation=tada" alt="kubernetes" /> <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=64&animation=tada" alt="docker" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=64&animation=tada" alt="jenkins" /> <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=tada" alt="postgresql" /> <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=64&animation=tada" alt="fastapi" /> <img src="https://www.readmecodegen.com/api/social-icon?name=prometheus&size=64&animation=bounce" alt="prometheus" /> <img src="https://www.readmecodegen.com/api/social-icon?name=githubactions&size=64&animation=bounce" alt="githubactions" /> <img src="https://www.readmecodegen.com/api/social-icon?name=grafana&size=64&animation=bounce" alt="grafana" />  <img src="https://www.readmecodegen.com/api/social-icon?name=elevenlabs&size=64&theme=dark&animation=bounce&color=%23ffffff" alt="elevenlabs" />
   </a>
 </div>
 
-    
-</p>
-</p>
 </div>
