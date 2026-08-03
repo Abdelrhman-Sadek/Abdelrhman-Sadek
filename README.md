@@ -36,8 +36,7 @@
 
   
 
-[![Mail Badge](https://img.shields.io/badge/-Abdelrhman-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abdelrhmansadek11@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Sadek-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmansadek9/)
-
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animation=bounce&link=abdelrhmansadek11%40gmail.com)](abdelrhmansadek11@gmail.com) [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=bounce&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdelrahmansadek9)](https://www.linkedin.com/in/abdelrahmansadek9)
 </h3>
 
 
@@ -69,7 +68,7 @@
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,scikitlearn,docker,python,prometheus,grafana,selenium,jenkins,flask,fastapi,sqlite,postgresql,postman,mysql,mongodb,anaconda,opencv" />
+   <img src="https://www.readmecodegen.com/api/social-icon?name=argo&size=64&animation=tada" alt="argo" /> <img src="https://www.readmecodegen.com/api/social-icon?name=terraform&size=64&animation=tada" alt="terraform" /> <img src="https://www.readmecodegen.com/api/social-icon?name=helm&size=64&animation=tada" alt="helm" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kong&size=64&animation=tada" alt="kong" /> <img src="https://www.readmecodegen.com/api/social-icon?name=googlecloud&size=64&animation=tada" alt="googlecloud" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=kubernetes&size=64&animation=tada" alt="kubernetes" /> <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=64&animation=tada" alt="docker" /> <img src="https://www.readmecodegen.com/api/social-icon?name=python&size=64&animation=tada" alt="python" /> <img src="https://www.readmecodegen.com/api/social-icon?name=jenkins&size=64&animation=tada" alt="jenkins" /> <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=64&animation=tada" alt="postgresql" /> <img src="https://www.readmecodegen.com/api/social-icon?name=fastapi&size=64&animation=tada" alt="fastapi" />
   </a>
 </div>
 
